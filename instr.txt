@@ -1,0 +1,4 @@
+1. Load -> wybrać zdjęcie.
+2. Add -> dodać warstwę.
+3. Wybrać warstwę (kliknąć na miniaturkę), wybrać preferowaną opcję transformacji np. "blackwhite" i kliknąć Transform.
+4. Włączając/wyłączając podgląd warstwy zmienionej możemy zobaczyć różne warstwy.
